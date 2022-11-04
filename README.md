@@ -8,3 +8,5 @@ This repository is about homework and labs of Computing Intelligence in 2022 fal
 [Homework3 GA-TSP](./homework3/report.md)
 
 [Homework4 PSO](./homework4/report.md)
+
+[Homework5 ANN-TSP](./homework5/report.md)
