@@ -9,4 +9,4 @@ This repository is about homework and labs of Computing Intelligence in 2022 fal
 
 [Homework4 PSO](./homework4/report.md)
 
-[Homework5 ANN-TSP](./homework5/report.md)
+[Homework5 SOM-TSP](./homework5/report.md)
